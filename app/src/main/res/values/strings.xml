@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Triangular-Number</string>
+    <string name="heading">Enter Number You Want to Check whether it is Triangular Number or Not !!.</string>
+    <string name="number_enter_edit_text">Enter Number</string>
+    <string name="check_it_button">Check-It</string>
+    <string name="print_pattern_button">Print-Pattern</string>
+</resources>
